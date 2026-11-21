@@ -3,7 +3,7 @@
 **Cisco Packet Tracer | Cisco IOS | VLAN | Inter-VLAN Routing | RIPv2 | DHCP | Static Routing**
 
 ## 📌 Project Overview
-<img width="2382" height="1417" alt="DONE" src="https://github.com/user-attachments/assets/69bfae6c-6edb-44d3-adca-9b8d631e71fc" />
+<img width="2580" height="1529" alt="campus project" src="https://github.com/user-attachments/assets/1b30a977-997c-4227-b3a7-ea0dd7b2645f" />
 
 
 This project focuses on designing and configuring a multi-campus enterprise network infrastructure for a fictional university, Albion University.
